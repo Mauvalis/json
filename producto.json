@@ -1,0 +1,40 @@
+{
+    "productos": [
+      {
+        "nombre": "Camiseta",
+        "precio": 19.99,
+        "descripcion": "Una camiseta de algodón cómoda y ligera",
+        "foto": "https://img.tweakpc.de/images/2018/07/13/lian-li-strimer-03.md.jpg"
+      },
+      {
+        "nombre": "Pantalones vaqueros",
+        "precio": 39.99,
+        "descripcion": "Pantalones vaqueros de corte ajustado y estilo moderno",
+        "foto": "https://th.bing.com/th/id/R.1b12e5903631ec2b883196894cd8fd80?rik=EJx%2bhtfqSmhTsQ&pid=ImgRaw&r=0"
+      },
+      {
+        "nombre": "Sudadera con capucha",
+        "precio": 29.99,
+        "descripcion": "Una sudadera suave con capucha y bolsillos",
+        "foto": "https://th.bing.com/th/id/OIP.frAS9Mt37p3vfAfkeOwS1AHaHa?pid=ImgDet&rs=1"
+      },
+      {
+        "nombre": "Vestido",
+        "precio": 49.99,
+        "descripcion": "Vestido elegante y femenino para ocasiones especiales",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dress_MET_19.181.1_F2.jpeg/800px-Dress_MET_19.181.1_F2.jpeg"
+      },
+      {
+        "nombre": "Zapatos deportivos",
+        "precio": 59.99,
+        "descripcion": "Zapatos deportivos ligeros y transpirables",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Nitrocharge1.jpg"
+      },
+      {
+        "nombre": "Chaqueta",
+        "precio": 79.99,
+        "descripcion": "Chaqueta resistente al agua y al viento",
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Tweed_jacket_edited.jpg"
+      }
+    ]
+  }
